@@ -1,3 +1,8 @@
+body{
+   background-color: #add5ff !important;
+}
+
+
 .green{
     color: green
 }
@@ -6,4 +11,14 @@
 }
 .büyük{
    font-size:  25px !important; 
+}
+.cardbody-style{
+   background-color: #a7c8e7;
+}
+.header-h1{
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   margin-bottom: 100px;
+   color: darkblue;
 }
